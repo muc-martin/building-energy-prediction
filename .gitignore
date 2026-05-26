@@ -1,0 +1,22 @@
+# Data and large files
+/Dataset/
+*.zip
+*.7z
+*.rar
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+import.ipynb
